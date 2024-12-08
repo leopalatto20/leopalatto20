@@ -7,7 +7,7 @@
 # Achievments
 + [Guadalahacks 1st place](https://www.linkedin.com/posts/guadalahacks_muchas-felicidades-a-los-ganadores-del-premio-activity-7198503499242819585-g1hV/?utm_source=share&utm_medium=member_desktop)
 , [Repository](https://github.com/syntax-error-ccm/evergreen)
-+ [HackMX 1st place](https://x.com/IngenieriasTec/status/1853942230232568021) , [Repository] (https://github.com/han-lovers/IdentifEye)
++ [HackMX 1st place](https://x.com/IngenieriasTec/status/1853942230232568021) , [Repository](https://github.com/han-lovers/IdentifEye)
 
 
 Im currently studying my 3rd semester of Computer Science.
