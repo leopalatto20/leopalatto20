@@ -1,4 +1,4 @@
-# Hi, this is my github profile
+# My computer science portfolio
 ### Degree projects
 + Basic programming battleship game made in python: [Battleship minigame](https://github.com/leopalatto20/Battleship)
 + Object oriented programming(C++): [OOP](https://github.com/leopalatto20/OOP)
