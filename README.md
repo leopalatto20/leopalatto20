@@ -10,4 +10,4 @@
 + [HackMX 1st place](https://x.com/IngenieriasTec/status/1853942230232568021) , [Repository](https://github.com/han-lovers/IdentifEye)
 
 
-Im currently studying my 3rd semester of Computer Science.
+Im currently studying my 5th semester of Computer Science.
