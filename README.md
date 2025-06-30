@@ -8,7 +8,10 @@
 
 ###
 
-<p align="left">Computer Science student @Tec de Monterrey, currently on 5th semester. <br>Degree projects:<br>Achievements:</p>
+<p align="left">Computer Science student @Tec de Monterrey, currently on 5th semester. <br>
+  Degree projects:<br>
+  Achievements:
+</p>
 
 ###
 
