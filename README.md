@@ -29,8 +29,8 @@ Videogame for kids to learn maths through levels, sending data to a real-time da
 - Emphasis on problem-solving and exploration.
 - Containerized application, ready to use. 
 
- 👾 **Basic programming battleship game made in python: [Battleship minigame](https://github.com/leopalatto20/Battleship)**
- 👾 **Object oriented programming(C++): [OOP](https://github.com/leopalatto20/OOP)**
+ 👾 **Basic battleship game made in python: [Battleship minigame](https://github.com/leopalatto20/Battleship)**<br>
+ 👾 **Object oriented programming(C++): [E-commerce](https://github.com/leopalatto20/e_commerce)**
 
 ###
 
