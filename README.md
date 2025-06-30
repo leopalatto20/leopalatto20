@@ -22,8 +22,12 @@ Text-based adventure game featuring:
 - Turn-based combat system  
 - Character progression mechanics
 
-🧠 **[AI Chatbot (TensorFlow + NLTK)](https://github.com/leopalatto20/Ai_Chatbot)**  
-Natural language processing chatbot trained with intents, capable of basic conversation and command recognition.
+👾 **[Operacion Escape (Unity, FastApi, React)](https://github.com/leopalatto20/OperacionEscape)**  
+Videogame for kids to learn maths through levels, sending data to a real-time dashboard for teachers to take decisions based on graphs:
+- 3 different levels.
+- Real-time graphs.
+- Emphasis on problem-solving and exploration.
+- Containerized application, ready to use. 
 
 🌐 **[Face Authentication Web App (React + Flask)](https://github.com/leopalatto20/face-auth-app)**  
 Web-based facial authentication system using OpenCV and machine learning models for identity verification.
