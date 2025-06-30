@@ -10,6 +10,8 @@
 
 <p align="left">Computer Science student @Tec de Monterrey, currently on 5th semester. <br>
   Degree projects:<br>
+  - <b>Data structures and algorithms (C++)</b>
+  - Complete text-based adventure game featuring dungeon exploration, turn-based combat and character progression.[Dungeons & Dragons](https://github.com/JorgeECadena/TC1030.-ProblemSituation)
   Achievements:
 </p>
 
