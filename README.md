@@ -51,7 +51,7 @@ Videogame for kids to learn maths through levels, sending data to a real-time da
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-##
+
 
 <h1 align="left">My tech stack</h1>
 
