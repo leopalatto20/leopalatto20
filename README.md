@@ -29,11 +29,8 @@ Videogame for kids to learn maths through levels, sending data to a real-time da
 - Emphasis on problem-solving and exploration.
 - Containerized application, ready to use. 
 
-🌐 **[Face Authentication Web App (React + Flask)](https://github.com/leopalatto20/face-auth-app)**  
-Web-based facial authentication system using OpenCV and machine learning models for identity verification.
-
-🎮 **[Educational Math Game (React + FastAPI)](https://github.com/leopalatto20/educational-math-game)**  
-Interactive game for kids to learn math through levels, drag-and-drop mechanics, and real-time performance tracking.
+- 👾 **Basic programming battleship game made in python: [Battleship minigame](https://github.com/leopalatto20/Battleship)**
+- 👾 **Object oriented programming(C++): [OOP](https://github.com/leopalatto20/OOP)**
 
 ###
 
